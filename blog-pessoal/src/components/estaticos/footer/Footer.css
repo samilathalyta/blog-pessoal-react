@@ -1,18 +1,23 @@
-.box1 {
+.box1{
     background-color: #3F51B5;
     height: 120px;
 }
 
-.box2 {
-    background-color: "#303F9F";
-     height: 60px;}
-     
-.redes {
-
-    font-size: 60;
-    color: white !important ;
+.box2{
+    background-color: #303F9F;
+    height: 60px;
 }
 
-.textos {
+.redes{
+    font-size: 20px !important;
     color: white;
 }
+
+.Copyright{
+   color: black;
+}
+
+.textoRedes {
+    color: white;
+} 
+

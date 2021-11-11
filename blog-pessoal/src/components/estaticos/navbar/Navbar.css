@@ -7,3 +7,12 @@
     text-decoration: none;
    
 }
+
+.cursor {
+    cursor: pointer;
+     color: white !important;
+}
+
+.backgroud {
+    background-color: white !important;
+}

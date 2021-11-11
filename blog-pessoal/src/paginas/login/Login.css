@@ -3,13 +3,13 @@
    
 }
 
-.textos {
+.textos1 {
 
-    font-weight: 'bold';
+    font-weight: 'bold' !important;
 }
 
 .imagem{
-        background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fclaudiahelenabo%2Fcactos%2F&psig=AOvVaw0cfRLvsw2rkLri_lsGD_u_&ust=1635542561561000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNi_vv6E7vMCFQAAAAAdAAAAABAD);
+        background-image: url(https://i.imgur.com/H88yIo2.png);
        background-repeat: no-repeat;
         width: 100vh;
          min-height: 100vh;
